@@ -14,9 +14,9 @@ A react todo application that allows users to track and organize the completion 
 
 
 ## To Start This Project
--Run npm install, npm start 
+- Run npm install, npm start 
 
--Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
