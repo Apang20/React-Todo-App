@@ -1,4 +1,4 @@
-# :notebook: :clipboard: Todo Application :white_check_mark: 
+# :clipboard: Todo Application :white_check_mark: 
 
 ## Overview
 A react todo application that allows users to track and organize the completion of their daily tasks
