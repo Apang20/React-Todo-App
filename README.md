@@ -11,11 +11,12 @@ A react todo application that allows users to track the completion and progress 
 -Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## User Stories
-- User add multiple tasks
-- User can edit tasks as complete
-- User can delete tasks
-- User can organize tasks by the status of the task
-- User can reload the page without losing their tasks or progress
+- User can... 
+- add multiple tasks
+- edit tasks as complete
+- delete tasks
+- organize tasks by the status of the task
+- reload the page without losing their tasks or progress
 
 ## Resources
 - [Google Fonts](https://fonts.google.com/)
