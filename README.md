@@ -8,7 +8,7 @@ A react todo application that allows users to track and organize the completion 
 
 
 
-## About
+## Technologies 
 - Utilized JavaScript with React hooks and a ReactJS framework. 
 
 
