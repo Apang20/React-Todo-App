@@ -1,4 +1,4 @@
-# Todo 
+# Todo Application
 
 ## Overview
 A react todo application that allows users to track the completion and progress of their daily tasks
