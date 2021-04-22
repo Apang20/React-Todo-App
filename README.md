@@ -21,12 +21,12 @@ A react todo application that allows users to track and organize the completion 
 
 
 ## User Stories
-A user can... 
-- add multiple tasks
-- edit tasks as complete
-- delete tasks
-- organize tasks by the status of the task
-- reload the page without losing their tasks or progress
+A user can do all of the following: 
+- Add multiple tasks
+- Edit tasks as complete
+- Delete tasks
+- Filter tasks by the status of the task
+- Reload the page without losing their tasks or progress
 
 
 
