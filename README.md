@@ -1,7 +1,7 @@
 # Todo Application
 
 ## Overview
-A react todo application that allows users to track the completion and progress of their daily tasks
+A react todo application that allows users to track and organize the completion of their daily tasks
 
 ## About
 * Utilized ReactJS framework and React Hooks. 
