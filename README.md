@@ -11,7 +11,7 @@ A react todo application that allows users to track the completion and progress 
 -Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## User Stories
-- User can... 
+A user can... 
 - add multiple tasks
 - edit tasks as complete
 - delete tasks
