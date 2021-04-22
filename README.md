@@ -1,4 +1,4 @@
-# Todo Application :white_check_mark: :pencil2: 
+# :pencil2:  Todo Application :white_check_mark: 
 
 ## Overview
 A react todo application that allows users to track and organize the completion of their daily tasks
