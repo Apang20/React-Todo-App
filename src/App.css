@@ -3,14 +3,41 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background: linear-gradient(-45deg, #e6acee, #a23ff3, #23a6d5, #23d5ab, #eee6f5);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* 
 body {
   background-image: linear-gradient(120deg, #99e4f1 0%, #0b7797 100%);
   color: rgb(250, 241, 110);
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
-}
+} */
+
+
 header {
   font-size: 2rem;
+  color: rgb(248, 237, 78);
+
 }
 
 header,
@@ -67,7 +94,7 @@ form button:hover {
 
 .trash-btn,
 .complete-btn {
-  background: #d8370b;
+  background: #e03405;
   color: white;
   border: none;
   padding: 1rem;
@@ -115,7 +142,7 @@ select {
   overflow: hidden;
 }
 select {
-  color: #ff6f47;
+  color: #020200;
   font-family: "Poppins", sans-serif;
   font-size: 1rem;
   cursor: pointer;
@@ -128,7 +155,7 @@ select {
   top: 0;
   right: 0;
   padding: 1rem;
-  background: #fc653c;
+  background: #f5e50c;
   cursor: pointer;
   pointer-events: none;
 }
