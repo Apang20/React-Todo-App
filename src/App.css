@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* Gradient Background Option */
+/* Gradient Background Option 
 body {
   background: linear-gradient(-45deg, #e6acee, #a23ff3, #23a6d5, #23d5ab, #eee6f5);
   background-size: 400% 400%;
@@ -24,15 +24,15 @@ body {
     background-position: 0% 50%;
   }
 }
+*/
 
-
-/* Standard Background Option
+/* Gradient Background Option */
 body {
   background-image: linear-gradient(120deg, #99e4f1 0%, #0b7797 100%);
   color: rgb(250, 241, 110);
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
-} */
+} 
 
 header {
   font-size: 2rem;
