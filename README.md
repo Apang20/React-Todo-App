@@ -1,4 +1,4 @@
-# :clipboard: Todo Application :white_check_mark: 
+# :clipboard: Daily Task Tracker Application :white_check_mark: 
 
 
 
