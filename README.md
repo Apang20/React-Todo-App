@@ -1,4 +1,4 @@
-# :clipboard: Daily Task Tracker Application :white_check_mark: 
+# :clipboard: Daily Task Tracker :white_check_mark: 
 
 
 
