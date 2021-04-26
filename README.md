@@ -13,6 +13,11 @@ A react todo application that allows users to track and organize the completion 
 
 
 
+## Demo
+
+- [Short Demo Video](https://www.youtube.com/watch?v=bICelZx7GvA)
+
+
 ## To Start This Project
 - Run npm install, npm start 
 
