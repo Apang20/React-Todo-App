@@ -1,4 +1,4 @@
-# :clipboard: Daily Task Tracker :white_check_mark: [View Live!](https://apang20.github.io/React-Todo-App/) 
+# :clipboard: Daily Task Tracker :white_check_mark:
 
 
 
