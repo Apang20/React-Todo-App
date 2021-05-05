@@ -1,5 +1,5 @@
 # :clipboard: Daily Task Tracker :white_check_mark: 
-
+# [View Live!](https://apang20.github.io/React-Todo-App/) 
 
 
 
@@ -22,7 +22,6 @@ A react todo application that allows users to track and organize the completion 
 - Run npm install, npm start 
 
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 
 
 ## User Stories
